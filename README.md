@@ -1,5 +1,5 @@
 # Module : Compétences Comportementales - CMC CS
-Ce dépôt centralise les travaux du module pour la filière **Intelligence Artificielle & Big Data** (Promotion 2026).
+Ce dépôt centralise les travaux du module pour la filière **Intelligence Artificielle option Big Data** (Promotion 2026 grp 201).
 
 ## 📂 Organisation du Dépôt
 * **📁 PPT/** : Présentations PowerPoint classées par thématique.
@@ -14,9 +14,10 @@ Ce dépôt centralise les travaux du module pour la filière **Intelligence Arti
 
 ## 🛠 Guide de Contribution
 * **Documents** : Ajoutez vos PPT dans le sous-dossier correspondant sous `PPT/`.
-* **Projets React** : Créez un dossier à votre nom dans `Quizzes_React/`.
+* **Projets React** :Déposez vos quiz dans `Quizzes_React/`.
 * **Règle d'or** : Ne jamais inclure le dossier `node_modules`.
 
 ## 👥 Administration
+* **Formateur** : Aymane Ezzaim
 * **Responsable** : Fatima ez-zahra Talbi
 * **Établissement** : CMC Casablanca-Settat (Nouaceur)
